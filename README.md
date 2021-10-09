@@ -1,4 +1,4 @@
-### 👋 <b>안드로이드</b> 개발을 하고있는 이수현이라고 합니다.
+### <b>안드로이드</b> 개발을 하고있는 이수현이라고 합니다.
 
 <!--
 **3dagger/3dagger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 😄 Skills
+### 🧑🏼‍💻 Skills
 #### Platform
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
