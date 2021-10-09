@@ -1,4 +1,4 @@
-### <b>안드로이드</b> 개발을 하고있는 이수현이라고 합니다.
+### <b>안드로이드 모바일</b> 개발을 하고있는 이수현이라고 합니다.
 
 <!--
 **3dagger/3dagger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
