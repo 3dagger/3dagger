@@ -1,4 +1,4 @@
-### Hi there, I'm SooHyun Lee 👋
+### Hi there, I'm SooHyun Lee
 
 **Android Developer — building solid apps with Kotlin, automating the boring stuff.**
 
@@ -7,7 +7,7 @@
 
 ---
 
-## 💼 Work
+## Work
 
 ### CJ ONE Android 앱 (2024.12 ~ 진행 중)
 
